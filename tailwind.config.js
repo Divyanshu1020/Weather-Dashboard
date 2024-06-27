@@ -13,6 +13,10 @@ export default {
     extend: {
       colors:{
         'background':'#0c0a09',
+      },
+      width: {
+        'full-minus-2rem': 'calc(100% - 4rem)',
+        'full-minus-1rem': 'calc(100% - 2rem)',
       }
     },
   },
